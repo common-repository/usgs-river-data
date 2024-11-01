@@ -1,0 +1,71 @@
+/*Styles.css for River_data Plugin*/
+
+/* CONFIG_1 STYLES */
+
+#config_1 h2 {
+	font-size: 24px;
+	margin: 2px 0 2px 0;
+}
+
+#config_1 #water_level {
+    float:left;
+	font-size: 18px;
+	margin: 2px 0 2px 0;
+}
+
+#config_1 img {
+	width: 576px;
+	height: 400px;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+#config_1 a {
+	float: right;
+}
+
+/* CONFIG_2 STYLES */
+
+#config_2 p {
+	font-size: 24px;
+	margin: 5px 0 5px 0;
+	float: left;
+}
+
+/* CONFIG_3 STYLES */
+
+#config_3 h2 {
+	font-size: 18px;
+	margin: 5px 0 2px 0;
+}
+
+#config_3 p {
+	font-size: 14px;
+	margin: 2px 0 5px 0;
+	float: left;
+}
+
+/* River-Single Page */
+#riv_single {
+	margin-bottom: 20px;
+}
+
+#riv_single #water_level {
+    float:left;
+	font-size: 24px;
+	margin: 2px 0 2px 0;
+}
+
+#riv_single img {
+	width: 576px;
+	height: 400px;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+#riv_single a {
+	float: right;
+}
+
